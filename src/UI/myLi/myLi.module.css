@@ -1,0 +1,9 @@
+.myLi{
+  font-size: 18px;
+  list-style: none;
+  float: left;
+}
+
+.myLi:not(:last-child){
+  margin-right: 155.7px;
+}

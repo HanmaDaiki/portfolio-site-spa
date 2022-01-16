@@ -1,0 +1,33 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: 'Gilroy', sans-serif;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('./assets/fonts/Gilroy-Bold.eot');
+  src: local('Gilroy Bold'), 
+    url('./assets/fonts/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./assets/fonts/Gilroy-Bold.woff') format('woff'),
+    url('./assets/fonts/Gilroy-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('./assets/fonts/Gilroy-Medium.eot');
+  src: local('Gilroy Medium'), 
+    url('./assets/fonts/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+    url('./assets/fonts/Gilroy-Medium.woff') format('woff'),
+    url('./assets/fonts/Gilroy-Medium.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}
