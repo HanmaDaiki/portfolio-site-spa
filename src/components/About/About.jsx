@@ -1,12 +1,15 @@
 import React from 'react';
 import classes from './About.module.css';
 import Container from '../../UI/Container/Container';
+import Title from '../Title/Title';
 
 const About = ({firstname, profession, town}) => {
   return (
     <div className={classes.About}>
       <Container>
-        <h1>About Me</h1>
+        <Title>
+          <span style={{marginBottom: '17px', marginTop: '120px'}}>About Me</span>
+        </Title>
         <span>
           Hi, I'm {firstname} – {profession} from {town}.
           <br/>

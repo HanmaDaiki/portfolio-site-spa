@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-site-spa/static/css/main.1abda1cf.css",
-    "main.js": "/portfolio-site-spa/static/js/main.cf15c534.js",
+    "main.css": "/portfolio-site-spa/static/css/main.4ffe154f.css",
+    "main.js": "/portfolio-site-spa/static/js/main.7399689f.js",
     "static/media/main-photo.jpg": "/portfolio-site-spa/static/media/main-photo.c11941ddcbbeda8a2247.jpg",
     "static/media/Gilroy-Medium.eot": "/portfolio-site-spa/static/media/Gilroy-Medium.b84941b7bdcce7cbba6d.eot",
     "static/media/Gilroy-Medium.ttf": "/portfolio-site-spa/static/media/Gilroy-Medium.f9f832b0ed3f1ab138c9.ttf",
@@ -10,11 +10,11 @@
     "static/media/Gilroy-Medium.woff": "/portfolio-site-spa/static/media/Gilroy-Medium.2bc7f5d7ea77ee1bddb3.woff",
     "static/media/Gilroy-Bold.woff": "/portfolio-site-spa/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
     "index.html": "/portfolio-site-spa/index.html",
-    "main.1abda1cf.css.map": "/portfolio-site-spa/static/css/main.1abda1cf.css.map",
-    "main.cf15c534.js.map": "/portfolio-site-spa/static/js/main.cf15c534.js.map"
+    "main.4ffe154f.css.map": "/portfolio-site-spa/static/css/main.4ffe154f.css.map",
+    "main.7399689f.js.map": "/portfolio-site-spa/static/js/main.7399689f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1abda1cf.css",
-    "static/js/main.cf15c534.js"
+    "static/css/main.4ffe154f.css",
+    "static/js/main.7399689f.js"
   ]
 }
