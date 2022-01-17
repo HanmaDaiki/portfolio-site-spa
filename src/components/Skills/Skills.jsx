@@ -18,7 +18,10 @@ const Skills = () => {
           justifyContent: 'space-around'}}>
             I work in such programs as
         </span>
-        <Skillitem link={'../../assets/icons/ps.jpg'}/>
+        <Skillitem abbreviation={"ps"} name={<span style={{display: 'flex', textAlign: 'center', justifyContent: 'space-around', fontSize: '14px', lineHeight: '17px', color: '#828282'}}>Adobe<br/>Photoshop</span>}/>
+        <Skillitem abbreviation={"ai"} name={<span style={{display: 'flex', textAlign: 'center', justifyContent: 'space-around', fontSize: '14px', lineHeight: '17px', color: '#828282'}}>Adobe<br/>Illustrator</span>}/>
+        <Skillitem abbreviation={"ae"} name={<span style={{display: 'flex', textAlign: 'center', justifyContent: 'space-around', fontSize: '14px', lineHeight: '17px', color: '#828282'}}>Adobe<br/>After Effects</span>}/>
+        <Skillitem abbreviation={"fig"} name={<span style={{display: 'flex', textAlign: 'center', justifyContent: 'space-around', fontSize: '14px', lineHeight: '17px', color: '#828282'}}>Figma</span>}/>
       </Container>
     </div>
   );

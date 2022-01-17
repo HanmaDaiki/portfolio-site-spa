@@ -1,10 +1,14 @@
 import React from 'react';
+import Skillitemicon from '../SkillItemIcon/SkillItemIcon';
 import classes from './SkillItem.module.css';
 
-const Skillitem = ({link}) => {
+const Skillitem = ({name, abbreviation}) => {
+
   return (
     <div className={classes.SkillItem}>
-      <div style={{backgroundImage: 'url("../../assets/icons/ps.jpg")', width: '89px', height: '89px', display: 'flex'}}></div>
+      <Skillitemicon abbreviation={abbreviation}/>
+      <br />
+      {name}
     </div>
   );
 }

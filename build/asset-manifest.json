@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-site-spa/static/css/main.4ffe154f.css",
-    "main.js": "/portfolio-site-spa/static/js/main.7399689f.js",
+    "main.css": "/portfolio-site-spa/static/css/main.3f7f42b7.css",
+    "main.js": "/portfolio-site-spa/static/js/main.954a0af3.js",
     "static/media/main-photo.jpg": "/portfolio-site-spa/static/media/main-photo.c11941ddcbbeda8a2247.jpg",
     "static/media/Gilroy-Medium.eot": "/portfolio-site-spa/static/media/Gilroy-Medium.b84941b7bdcce7cbba6d.eot",
     "static/media/Gilroy-Medium.ttf": "/portfolio-site-spa/static/media/Gilroy-Medium.f9f832b0ed3f1ab138c9.ttf",
@@ -9,12 +9,15 @@
     "static/media/Gilroy-Bold.ttf": "/portfolio-site-spa/static/media/Gilroy-Bold.b900325e44ec0c673e88.ttf",
     "static/media/Gilroy-Medium.woff": "/portfolio-site-spa/static/media/Gilroy-Medium.2bc7f5d7ea77ee1bddb3.woff",
     "static/media/Gilroy-Bold.woff": "/portfolio-site-spa/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
+    "static/media/ai.jpg": "/portfolio-site-spa/static/media/ai.eef09f2331e0528218fa.jpg",
+    "static/media/ae.jpg": "/portfolio-site-spa/static/media/ae.e9219fee5d2898d97421.jpg",
+    "static/media/ps.jpg": "/portfolio-site-spa/static/media/ps.f9740bcbed5bbe59a09b.jpg",
     "index.html": "/portfolio-site-spa/index.html",
-    "main.4ffe154f.css.map": "/portfolio-site-spa/static/css/main.4ffe154f.css.map",
-    "main.7399689f.js.map": "/portfolio-site-spa/static/js/main.7399689f.js.map"
+    "main.3f7f42b7.css.map": "/portfolio-site-spa/static/css/main.3f7f42b7.css.map",
+    "main.954a0af3.js.map": "/portfolio-site-spa/static/js/main.954a0af3.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ffe154f.css",
-    "static/js/main.7399689f.js"
+    "static/css/main.3f7f42b7.css",
+    "static/js/main.954a0af3.js"
   ]
 }

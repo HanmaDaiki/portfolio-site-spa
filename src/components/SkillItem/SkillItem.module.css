@@ -1,3 +1,9 @@
 .SkillItem{
   float: left;
+  height: 206px;
+  width: 166px;
+}
+
+.SkillItem:not(:last-child){
+  margin-right: 90px;
 }
