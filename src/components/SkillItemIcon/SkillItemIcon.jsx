@@ -3,7 +3,9 @@ import ps from '../../assets/icons/ps.jpg';
 import ae from '../../assets/icons/ae.jpg';
 import ai from '../../assets/icons/ai.jpg';
 import fig from '../../assets/icons/fig.jpg';
-
+/**
+* FIXME: Убрать стили в css и подгружать линк через пропсы
+*/
 const Skillitemicon = (props) => {
   let img = <img src="" alt="" />
   if(props.abbreviation === "ps"){

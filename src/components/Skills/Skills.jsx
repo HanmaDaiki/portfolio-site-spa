@@ -4,6 +4,10 @@ import Skillitem from '../SkillItem/SkillItem';
 import Title from '../Title/Title';
 import classes from './Skills.module.css'
 
+/**
+*  FIXME: Убрать стили из элемента в css
+*/
+
 const Skills = () => {
   return (
     <div className={classes.Skills}>
