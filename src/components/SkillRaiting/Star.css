@@ -1,7 +1,0 @@
-.Star-one, .Star-two, .Star-three, .Star-four, .Star-five{
-  overflow: hidden;
-  position: relative;
-  content: '★';
-  width: 26px;
-  height: 26px;
-}

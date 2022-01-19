@@ -1,20 +1,36 @@
 import React from 'react';
 import classes from './SkillRaiting.module.css';
-import './Star.css';
 
 /**
  * 
- * TODO: Придумать систему для отслеживания рейтинга скилла. 
+ * FIXME: ПЕРЕДЕЛАТЬ ВСЁ!!! Не устраивает setRaiting
  */
 
-const Skillraiting = () => {
+const setRating = (rating) => {
+  let Rating = <div className={classes.SkillRaiting}><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>;
+
+  let active= {
+    color: 'black'
+  };
+
+  switch(rating){
+    case 1:
+      return Rating = <div className={classes.SkillRaiting}><span style={active}>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>;
+    case 2:
+      return Rating = <div className={classes.SkillRaiting}><span style={active}>★</span><span style={active}>★</span><span>★</span><span>★</span><span>★</span></div>;
+    case 3:
+      return Rating = <div className={classes.SkillRaiting}><span style={active}>★</span><span style={active}>★</span><span style={active}>★</span><span>★</span><span>★</span></div>;
+    case 4:
+      return Rating = <div className={classes.SkillRaiting}><span style={active}>★</span><span style={active}>★</span><span style={active}>★</span><span style={active}>★</span><span>★</span></div>;
+    case 5:
+      return Rating = <div className={classes.SkillRaiting}><span style={active}>★</span><span style={active}>★</span><span style={active}>★</span><span style={active}>★</span><span style={active}>★</span></div>;
+  };
+};
+
+const Skillraiting = ({rating}) => {
   return(
-    <div className={classes.SkillRaiting}>
-      <span className='Star-one'></span>
-      <span className='Star-two'></span>
-      <span className='Star-three'></span>
-      <span className='Star-four'></span>
-      <span className='Star-five'></span>
+    <div>
+      {setRating(rating)}
     </div>
   );
 };
