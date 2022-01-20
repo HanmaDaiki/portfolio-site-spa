@@ -3,6 +3,7 @@ import './App.css';
 import About from './components/About/About';
 import Header from './components/Header/Header';
 import Maininformation from './components/MainInformation/MainInformation';
+import Projects from './components/Projects/Projects';
 import Skills from './components/Skills/Skills';
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
         profession={profileInfo.profession}
       />
       <Skills />
+      <Projects />
     </div>
   );
 };

@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio-site-spa/static/css/main.8b76bd9e.css",
-    "main.js": "/portfolio-site-spa/static/js/main.db1dd449.js",
+    "main.css": "/portfolio-site-spa/static/css/main.cb1493ea.css",
+    "main.js": "/portfolio-site-spa/static/js/main.7c8a039e.js",
     "static/media/main-photo.jpg": "/portfolio-site-spa/static/media/main-photo.c11941ddcbbeda8a2247.jpg",
+    "static/media/reebok.jpg": "/portfolio-site-spa/static/media/reebok.82c5945c237d927b974f.jpg",
+    "static/media/levis.jpg": "/portfolio-site-spa/static/media/levis.73c86c9acbcf0f2d760c.jpg",
+    "static/media/braun.jpg": "/portfolio-site-spa/static/media/braun.0725e8714726d82c7c4e.jpg",
     "static/media/Gilroy-Medium.eot": "/portfolio-site-spa/static/media/Gilroy-Medium.b84941b7bdcce7cbba6d.eot",
     "static/media/Gilroy-Medium.ttf": "/portfolio-site-spa/static/media/Gilroy-Medium.f9f832b0ed3f1ab138c9.ttf",
     "static/media/Gilroy-Bold.eot": "/portfolio-site-spa/static/media/Gilroy-Bold.a732fed1bc6140852a0b.eot",
@@ -13,11 +16,11 @@
     "static/media/ae.jpg": "/portfolio-site-spa/static/media/ae.e9219fee5d2898d97421.jpg",
     "static/media/ps.jpg": "/portfolio-site-spa/static/media/ps.f9740bcbed5bbe59a09b.jpg",
     "index.html": "/portfolio-site-spa/index.html",
-    "main.8b76bd9e.css.map": "/portfolio-site-spa/static/css/main.8b76bd9e.css.map",
-    "main.db1dd449.js.map": "/portfolio-site-spa/static/js/main.db1dd449.js.map"
+    "main.cb1493ea.css.map": "/portfolio-site-spa/static/css/main.cb1493ea.css.map",
+    "main.7c8a039e.js.map": "/portfolio-site-spa/static/js/main.7c8a039e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b76bd9e.css",
-    "static/js/main.db1dd449.js"
+    "static/css/main.cb1493ea.css",
+    "static/js/main.7c8a039e.js"
   ]
 }
