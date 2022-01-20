@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import About from './components/About/About';
+import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Maininformation from './components/MainInformation/MainInformation';
 import Projects from './components/Projects/Projects';
@@ -32,6 +33,7 @@ function App() {
       />
       <Skills />
       <Projects />
+      <Footer />
     </div>
   );
 };
