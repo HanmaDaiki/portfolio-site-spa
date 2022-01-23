@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-site-spa/static/css/main.ff8a4f11.css",
-    "main.js": "/portfolio-site-spa/static/js/main.ce2e88ee.js",
+    "main.css": "/portfolio-site-spa/static/css/main.844e93ed.css",
+    "main.js": "/portfolio-site-spa/static/js/main.23e9b9f1.js",
     "static/media/main-photo.jpg": "/portfolio-site-spa/static/media/main-photo.c11941ddcbbeda8a2247.jpg",
     "static/media/reebok.jpg": "/portfolio-site-spa/static/media/reebok.82c5945c237d927b974f.jpg",
     "static/media/levis.jpg": "/portfolio-site-spa/static/media/levis.73c86c9acbcf0f2d760c.jpg",
@@ -16,11 +16,11 @@
     "static/media/ae.jpg": "/portfolio-site-spa/static/media/ae.e9219fee5d2898d97421.jpg",
     "static/media/ps.jpg": "/portfolio-site-spa/static/media/ps.f9740bcbed5bbe59a09b.jpg",
     "index.html": "/portfolio-site-spa/index.html",
-    "main.ff8a4f11.css.map": "/portfolio-site-spa/static/css/main.ff8a4f11.css.map",
-    "main.ce2e88ee.js.map": "/portfolio-site-spa/static/js/main.ce2e88ee.js.map"
+    "main.844e93ed.css.map": "/portfolio-site-spa/static/css/main.844e93ed.css.map",
+    "main.23e9b9f1.js.map": "/portfolio-site-spa/static/js/main.23e9b9f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff8a4f11.css",
-    "static/js/main.ce2e88ee.js"
+    "static/css/main.844e93ed.css",
+    "static/js/main.23e9b9f1.js"
   ]
 }
