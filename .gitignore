@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+build/asset-manifest.json
+build/asset-manifest.json
+build/index.html
+build/index.html
+build/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff
