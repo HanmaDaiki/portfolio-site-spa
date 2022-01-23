@@ -1,6 +1,28 @@
+header {
+  border-bottom: 1px solid #828282;
+}
+
 .Header{
-  border-bottom: 1px solid;
   display: flex;
+  flex-wrap: wrap;
+  margin-top: 33px;
+  margin-bottom: 31px;
+}
+
+.Header a{
+  font-size: 18px;
+  text-decoration: none;
+  float: left;
   color: #828282;
 }
 
+.Header a:not(:last-child){
+  margin-right: 16.55%;
+}
+
+
+@media  screen and (max-width: 375px) {
+  header {
+    border-bottom: 0px solid;
+  }
+}

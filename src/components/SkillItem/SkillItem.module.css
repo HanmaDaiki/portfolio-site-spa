@@ -7,3 +7,15 @@
 .SkillItem:not(:last-child){
   margin-right: 90px;
 }
+
+@media (max-width: 375px){
+  .SkillItem{
+    height: 206px;
+    width: 100%;
+    margin: 0;
+  }
+  .SkillItem:not(:last-child){
+    margin-bottom: 81px;
+    margin-right: 0px;
+  }
+}

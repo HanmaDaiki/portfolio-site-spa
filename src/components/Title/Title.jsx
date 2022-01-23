@@ -3,9 +3,9 @@ import classes from './Title.module.css';
 
 const Title = ({children}) => {
   return (
-    <h1 className={classes.Title}>
+    <div className={classes.Title}>
       {children}
-    </h1>
+    </div>
   );
 }
 

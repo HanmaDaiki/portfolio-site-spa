@@ -1,3 +1,9 @@
 .Skills {
   height: 610px;
 }
+
+@media (max-width: 375px){
+  .Skills {
+    height: 1421px;
+  }
+}

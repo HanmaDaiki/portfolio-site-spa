@@ -5,3 +5,12 @@
   margin-top: 40px;
   float: left;
 }
+
+@media  (max-width: 375px) {
+  .ProfileName {
+    width: 100%;
+    font-size: 47.3px;
+    line-height: 59px;
+    margin-top: 0px;
+  }
+}

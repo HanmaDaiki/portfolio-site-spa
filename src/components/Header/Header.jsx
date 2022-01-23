@@ -1,24 +1,20 @@
 import React from 'react';
 import Container from '../../UI/Container/Container';
-import Myli from '../../UI/myLi/myLi';
-import Myul from '../../UI/myUl/myUl';
 import classes from './Header.module.css'
 
 const Header = () => {
   return (
-    <header>
-      <Container>
+    <Container>
+      <header>
         <div className={classes.Header}>
-          <Myul>
-            <Myli>Home</Myli>
-            <Myli>About Me</Myli>
-            <Myli>Skills</Myli>
-            <Myli>Portfolio</Myli>
-            <Myli>Contacts</Myli>
-          </Myul>
+          <a href="/" id='Home'>Home</a>
+          <a href="/" id='About me'>About me</a>
+          <a href="/" id='Skills'>Skills</a>
+          <a href="/" id='Portfolio'>Portfolio</a>
+          <a href="/" id='Contacts'>Contacts</a>
         </div>
-      </Container>
-    </header>
+      </header>
+    </Container>
   );
 };
 

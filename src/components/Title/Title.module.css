@@ -5,3 +5,13 @@
   display: flex;
   justify-content: center;
 }
+
+@media  (max-width: 375px) {
+  .Title {
+    font-size: 34px;
+    line-height: 42px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+  }
+}

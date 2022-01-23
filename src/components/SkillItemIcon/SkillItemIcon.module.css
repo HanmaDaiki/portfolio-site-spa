@@ -3,3 +3,12 @@
   height: 89px;
   background-size: cover;
 }
+
+@media (max-width: 375px){
+  .SkillItemIcon {
+    width: 89px;
+    height: 89px;
+    background-size: cover;
+    float: none;
+  }
+}

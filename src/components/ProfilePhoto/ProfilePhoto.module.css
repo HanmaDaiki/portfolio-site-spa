@@ -5,3 +5,13 @@
   background-image: url('../../assets/images/main-photo.jpg');
   background-size: cover;
 }
+
+@media  (max-width: 375px) {
+  .ProfilePhoto{
+    display: flex;
+    width: 100%;
+    height: 478px;
+    background-image: url('../../assets/images/main-photo.jpg');
+    background-size: cover;
+  }
+}
