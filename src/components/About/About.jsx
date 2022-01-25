@@ -9,7 +9,7 @@ const About = ({firstname, profession, town}) => {
     margin-top: 120px;
     margin-bottom: 17px;
 
-    @media (max-width: 375px) {
+    @media (max-width: 939px) {
       margin-top: 81px;
       margin-bottom: 29px;
     }

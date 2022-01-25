@@ -1,6 +1,29 @@
 .Footer {
   height: 622px;
-  width: '100%'; 
-  display: 'flex';
-  justify-content: 'space-around';
+  width: 100%; 
+  display: flex;
+  justify-content: space-around;
+}
+
+.Footer {
+  height: 569px;
+  width: 100%; 
+  display: flex;
+  justify-content: space-around;
+}
+.Footer svg:not(:last-child){ 
+  margin: 0 62px 0 0;
+}
+
+
+@media (max-width: 939px){
+  .Footer {
+    height: 569px;
+    width: 100%; 
+    display: flex;
+    justify-content: space-around;
+  }
+  .Footer svg:not(:last-child){ 
+    margin: 0 51px 0 0;
+  }
 }

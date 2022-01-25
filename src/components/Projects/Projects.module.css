@@ -2,3 +2,10 @@
   height: 2253px;
   background-color: #E5E5E5;
 }
+
+@media (max-width: 939px){
+  .Projects{
+    height: 1118px;
+    background-color: #E5E5E5;
+  }
+}

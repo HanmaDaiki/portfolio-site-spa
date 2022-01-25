@@ -21,8 +21,16 @@ header {
 }
 
 
-@media  screen and (max-width: 375px) {
+@media (max-width: 939px){
   header {
     border-bottom: 0px solid;
   }
+
+  .Header{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0;
+    margin-bottom: 31px;
+  }
+  
 }

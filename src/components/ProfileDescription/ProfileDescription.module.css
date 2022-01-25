@@ -8,12 +8,13 @@
   clear: right;
 }
 
-@media  (max-width: 375px) {
+@media  (max-width: 939px) {
   .ProfileDescription{
     margin: 32px 0 36px 0;
     width: 155px;
     font-weight: 500;
     font-size: 18px;
     line-height: 22px;
+    float: none;
   }
 }

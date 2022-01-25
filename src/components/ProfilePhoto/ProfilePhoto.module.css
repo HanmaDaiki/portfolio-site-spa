@@ -2,16 +2,16 @@
   display: flex;
   width: 100%;
   min-height: 387px;
-  background-image: url('../../assets/images/main-photo.jpg');
+  background-image: url(../../assets/images/main-photo.jpg);
   background-size: cover;
 }
 
-@media  (max-width: 375px) {
+@media  (max-width: 939px) {
   .ProfilePhoto{
     display: flex;
-    width: 100%;
+    width: 316px;
     height: 478px;
-    background-image: url('../../assets/images/main-photo.jpg');
+    background-image: url(../../assets/images/main-photo2.jpg);
     background-size: cover;
   }
 }

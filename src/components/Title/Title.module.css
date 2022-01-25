@@ -6,7 +6,7 @@
   justify-content: center;
 }
 
-@media  (max-width: 375px) {
+@media  (max-width: 939px) {
   .Title {
     font-size: 34px;
     line-height: 42px;

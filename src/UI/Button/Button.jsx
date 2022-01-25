@@ -1,21 +1,24 @@
 import React from 'react';
+import styled from 'styled-components';
 
 const Button = ({children}) => {
-  let styleButton = {
-    borderRadius: '22px',
-    height: '42px',
-    width: '180px',
-    backgroundColor: 'black',
-    color: 'white',
-    fontSize: '18px',
-    lineHeight: '22px',
-    borderColor: 'black'
+  const SendButton = styled.button`
+  border-radius: 22px;
+  height: 42px;
+  width: 180px;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  line-height: 22px;
+  border: 0 solid black;
+  
+  @media(max-width: 939px){
+    width: 100%;
   }
+  `
 
   return (
-    <button style={styleButton}>
-      {children}
-    </button>
+    <SendButton>{children}</SendButton>
   );
 }
 

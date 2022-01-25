@@ -6,7 +6,7 @@
   float: left;
 }
 
-@media  (max-width: 375px) {
+@media  (max-width: 939px) {
   .ProfileName {
     width: 100%;
     font-size: 47.3px;

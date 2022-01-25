@@ -3,7 +3,7 @@
   background-color: white;
 }
 
-@media  (max-width: 375px) {
+@media  (max-width: 939px) {
   .MainInformation{
     height: 836px;
     background-color: white;
