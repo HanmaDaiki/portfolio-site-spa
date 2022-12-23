@@ -7,7 +7,7 @@
 # Как запустить
 
 ```
-$ git clone https://github.com/HanmaDaiki/redux-workout
+$ git clone https://github.com/HanmaDaiki/portfolio-site-spa
 $ npm install
 $ npm run start
 ```
