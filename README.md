@@ -4,7 +4,7 @@
 
 ## Описание
 
-Данный проект был создан для тренировки react, css, html и как мой первый пет-проект, чтобы попробовать свои силы перед курсами от Яндекс Практикума. Данный проект был выбран из бесплатных макетов с этого [сайта](https://blog.maxgraph.ru/besplatnye-makety-figma-dlya-verstki-sajta/). 
+Данный проект создан для тренировки react, css, html. Он был моим первым пет-проектом, в которм я пробовал свои свои силы перед курсами от Яндекс Практикума. Я выбрал дизайн лендинга из бесплатных макетов на этом [сайте](https://blog.maxgraph.ru/besplatnye-makety-figma-dlya-verstki-sajta/). 
 
 [Ссылка на макет](https://www.figma.com/file/5D9pDuLtS042hzaoN69Kd7/Free--Landing--Page-Template?node-id=0%3A1)
 
