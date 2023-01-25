@@ -1,18 +1,48 @@
-import React from 'react';
+import { NavHashLink as NavLink } from 'react-router-hash-link';
+
 import Container from '../../UI/Container/Container';
-import classes from './Header.module.css'
+
+import './Header.css';
+
 
 const Header = () => {
   return (
     <Container>
-      <header>
-        <div className={classes.Header}>
-          <a href="/" id='Home'>Home</a>
-          <a href="/" id='About me'>About me</a>
-          <a href="/" id='Skills'>Skills</a>
-          <a href="/" id='Portfolio'>Portfolio</a>
-          <a href="/" id='Contacts'>Contacts</a>
-        </div>
+      <header className='header'>
+        <nav className='header__navigation'>
+          <NavLink
+            className='header__link'
+            to='#home'
+            smooth
+          >
+            Home
+          </NavLink>
+          <NavLink
+            className='header__link'
+            to='#about'
+            smooth
+          >
+            About
+          </NavLink>
+          <NavLink
+            className='header__link'
+            to='#skills'
+          >
+            Skills
+          </NavLink>
+          <NavLink
+            className='header__link'
+            to='#portfolio'
+          >
+            Portfolio
+          </NavLink>
+          <NavLink
+            className='header__link'
+            to='#contacts'
+          >
+            Contacts
+          </NavLink>
+        </nav>
       </header>
     </Container>
   );
