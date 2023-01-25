@@ -1,0 +1,24 @@
+.skill {
+  width: 166px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.skill__image {
+  width: 89px;
+  height: 89px;
+  object-fit: contain;
+  object-position: center;
+  
+}
+
+.skill__name {
+  color: #828282;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  width: 80px;
+  margin: 40px 0 20px;
+}

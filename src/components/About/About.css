@@ -1,0 +1,40 @@
+.about {
+  display: flex;
+  background-color: #f6f6f6;
+  padding: 120px 0 107px;
+}
+
+.about__container {
+  margin: 0 auto;
+  max-width: 940px;
+}
+
+.about__paragraph {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: center;
+  width: 485px;
+}
+
+.about__paragraph:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+
+@media  screen and (max-width: 941px) {
+  .about {
+    padding: 81px 0 76px;
+  }
+
+  .about__container {
+    max-width: 316px;
+  }
+
+  .about__paragraph {
+    width: 316px;
+  }
+  .about__paragraph:not(:last-child) {
+    margin-bottom: 30px;
+  }
+}

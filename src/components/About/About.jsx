@@ -1,40 +1,27 @@
-import React from 'react';
-import styled from 'styled-components';
-import classes from './About.module.css';
-import Container from '../../UI/Container/Container';
-import Title from '../Title/Title';
+import { SectionTitle } from '../../UI/SectionTitle/SectionTitle';
 
-const About = ({firstname, profession, town}) => {
-  const TitleAbout = styled.div`
-    margin-top: 120px;
-    margin-bottom: 17px;
+import './About.css';
 
-    @media (max-width: 939px) {
-      margin-top: 81px;
-      margin-bottom: 29px;
-    }
-  `;
+const About = () => {
 
   return (
-    <div className={classes.About}>
-      <Container>
-        <Title>
-          <TitleAbout>About Me</TitleAbout>
-        </Title>
-        <span>
-          Hi, I'm {firstname} – {profession} from {town}.
+    <section id='about' className='about'>
+      <div className='about__container'>
+        <SectionTitle>About me</SectionTitle>
+        <p className='about__paragraph'>
+          Hi, I'm Denis – UX/UI designer from Minsk.
           I'm interested in design and everything connected with it.
-        </span>
-        <span>
-          I'm studying at courses "Web and mobile design 
+        </p>
+        <p className='about__paragraph'>
+          I'm studying at courses "Web and mobile design
           interfaces" in IT-Academy.
-        </span>
-        <span>
+        </p>
+        <p className='about__paragraph'>
           Ready to implement excellent projects
           with wonderful people.
-        </span>
-      </Container>
-    </div>
+        </p>
+      </div>
+    </section>
   );
 }
 

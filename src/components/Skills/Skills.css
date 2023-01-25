@@ -1,0 +1,32 @@
+.skills {
+  padding: 91px 0 110px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 940px;
+}
+
+.skills__list {
+  display: flex;
+  gap: 90px;
+}
+
+.skills__paragraph {
+  margin: 69px 0 83px;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #070707;
+}
+
+@media (max-width: 941px){
+  .skills {
+    max-width: 314px;
+    align-items: center;
+  }
+
+  .skills__list {
+    flex-direction: column;
+    gap: 81px;
+  }
+}

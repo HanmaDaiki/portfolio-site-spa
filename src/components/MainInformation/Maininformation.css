@@ -4,8 +4,10 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  margin: 40px 0 104px;
+  padding: 40px 0 104px;
   gap: 30px;
+  max-width: 941px;
+  margin: 0 auto;
 }
 
 .main-information__title {
@@ -59,7 +61,8 @@
 
 @media  (max-width: 941px) {
   .main-information{
-    margin: 65px 0 83px;
+    padding: 65px 0 83px;
+    max-width: 316px;
   }
 
   .main-information__photo {

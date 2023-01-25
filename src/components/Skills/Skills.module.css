@@ -1,9 +1,0 @@
-.Skills {
-  height: 610px;
-}
-
-@media (max-width: 939px){
-  .Skills {
-    height: 1421px;
-  }
-}
