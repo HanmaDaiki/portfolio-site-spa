@@ -27,7 +27,7 @@
 .main-information__language {
   transform: rotate(-90deg);
   display: flex;
-  align-items: end;
+  align-items: flex-end;
   width: 40px;
 }
 

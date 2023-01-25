@@ -5,10 +5,28 @@
   box-sizing: border-box;
 }
 
-
 .app {
   font-family: 'Gilroy', sans-serif;
   font-weight: bold;
+}
+
+.button-menu {
+  background-color: rgba(0,0,0,0%);
+  border: none;
+  background-image: url(../../assets/icons/icon-menu.svg);
+  width: 33px;
+  height: 19px;
+  background-position: center;
+  background-size: cover;
+  cursor: pointer;
+  position: fixed;
+  top: 68px;
+  right: 30px;
+  display: none;
+}
+
+.button-menu:hover {
+  opacity: .5;
 }
 
 @font-face {
@@ -31,4 +49,10 @@
     url('../../assets/fonts/Gilroy-Medium.ttf') format('truetype');
   font-style: normal;
   font-weight: 500;
+}
+
+@media screen and (max-width: 941px) {
+  .button-menu {
+    display: inherit;
+  }
 }

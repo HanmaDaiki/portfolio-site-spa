@@ -1,11 +1,10 @@
-import { NavHashLink as NavLink } from 'react-router-hash-link';
+import { HashLink as NavLink } from 'react-router-hash-link';
 
 import './Header.css';
 
 
 const Header = () => {
   return (
-
     <header className='header'>
       <nav className='header__navigation'>
         <NavLink

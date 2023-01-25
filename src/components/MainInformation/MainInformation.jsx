@@ -2,7 +2,6 @@ import './Maininformation.css'
 
 const Maininformation = () => {
   return (
-
     <section id='home' className='main-information'>
       <div className='main-information__text-block'>
         <h1 className='main-information__title'>Denis Novik</h1>

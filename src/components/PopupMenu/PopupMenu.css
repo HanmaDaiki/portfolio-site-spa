@@ -1,0 +1,43 @@
+.popup-menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 375px;
+  height: 100%;
+  padding: 66px 76px 66px 26px;
+  background-color: #fff;
+}
+
+.popup-menu__navigation {
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+}
+
+.popup-menu__link {
+  font-size: 34px;
+  line-height: 42px;
+  color: #828282;
+  text-decoration: none;
+}
+
+.popup-menu__link:hover {
+  opacity: 0.5;
+}
+
+.popup-menu__button-close {
+  background-image: url(../../assets/icons/close.svg);
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  background-size: contain;
+  border: none;
+  background-color: rgba(0,0,0,0%);
+  right: 22px;
+  top: 66px;
+  cursor: pointer;
+}
+
+.popup-menu__button-close:hover {
+  opacity: .7;
+}
