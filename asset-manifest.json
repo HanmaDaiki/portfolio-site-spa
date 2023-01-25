@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio-site-spa/static/css/main.6104b672.css",
-    "main.js": "/portfolio-site-spa/static/js/main.c398211a.js",
-    "static/media/main-photo.jpg": "/portfolio-site-spa/static/media/main-photo.c11941ddcbbeda8a2247.jpg",
+    "main.css": "/portfolio-site-spa/static/css/main.e35e087e.css",
+    "main.js": "/portfolio-site-spa/static/js/main.8371f29d.js",
+    "static/media/main-photo-full-resolution.png": "/portfolio-site-spa/static/media/main-photo-full-resolution.fd09b6d4fda3d39c4b06.png",
+    "static/media/in.svg": "/portfolio-site-spa/static/media/in.8a85be8efd6b5b53b791bed6dfdb4d07.svg",
     "static/media/reebok.jpg": "/portfolio-site-spa/static/media/reebok.82c5945c237d927b974f.jpg",
     "static/media/levis.jpg": "/portfolio-site-spa/static/media/levis.73c86c9acbcf0f2d760c.jpg",
     "static/media/braun.jpg": "/portfolio-site-spa/static/media/braun.0725e8714726d82c7c4e.jpg",
@@ -13,15 +14,17 @@
     "static/media/Gilroy-Bold.ttf": "/portfolio-site-spa/static/media/Gilroy-Bold.b900325e44ec0c673e88.ttf",
     "static/media/Gilroy-Medium.woff": "/portfolio-site-spa/static/media/Gilroy-Medium.2bc7f5d7ea77ee1bddb3.woff",
     "static/media/Gilroy-Bold.woff": "/portfolio-site-spa/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
-    "static/media/ai.jpg": "/portfolio-site-spa/static/media/ai.eef09f2331e0528218fa.jpg",
-    "static/media/ae.jpg": "/portfolio-site-spa/static/media/ae.e9219fee5d2898d97421.jpg",
-    "static/media/ps.jpg": "/portfolio-site-spa/static/media/ps.f9740bcbed5bbe59a09b.jpg",
+    "static/media/dri.svg": "/portfolio-site-spa/static/media/dri.17a35942f63cb872857c436cfae0a5ce.svg",
+    "static/media/be.svg": "/portfolio-site-spa/static/media/be.4b8558c02e96e1347a9ae880bbad6604.svg",
+    "static/media/inst.svg": "/portfolio-site-spa/static/media/inst.5fc9d738e4096f5ad905fd8ecf8fc316.svg",
     "index.html": "/portfolio-site-spa/index.html",
-    "main.6104b672.css.map": "/portfolio-site-spa/static/css/main.6104b672.css.map",
-    "main.c398211a.js.map": "/portfolio-site-spa/static/js/main.c398211a.js.map"
+    "static/media/close.svg": "/portfolio-site-spa/static/media/close.720de1cf4b6f49d8221b.svg",
+    "static/media/icon-menu.svg": "/portfolio-site-spa/static/media/icon-menu.973721b6f3b14c650a79.svg",
+    "main.e35e087e.css.map": "/portfolio-site-spa/static/css/main.e35e087e.css.map",
+    "main.8371f29d.js.map": "/portfolio-site-spa/static/js/main.8371f29d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6104b672.css",
-    "static/js/main.c398211a.js"
+    "static/css/main.e35e087e.css",
+    "static/js/main.8371f29d.js"
   ]
 }
