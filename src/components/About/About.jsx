@@ -1,4 +1,5 @@
 import { SectionTitle } from '../../UI/SectionTitle/SectionTitle';
+import { Container } from '../../UI/Container/Container';
 
 import './About.css';
 
@@ -6,7 +7,7 @@ const About = () => {
 
   return (
     <section id='about' className='about'>
-      <div className='about__container'>
+      <Container>
         <SectionTitle>About me</SectionTitle>
         <p className='about__paragraph'>
           Hi, I'm Denis – UX/UI designer from Minsk.
@@ -20,7 +21,7 @@ const About = () => {
           Ready to implement excellent projects
           with wonderful people.
         </p>
-      </div>
+      </Container>
     </section>
   );
 }

@@ -8,6 +8,7 @@
   gap: 30px;
   max-width: 941px;
   margin: 0 auto;
+  box-sizing: border-box;
 }
 
 .main-information__title {
@@ -54,9 +55,11 @@
 
 .main-information__photo {
   background-image: url(../../assets/images/main-photo-full-resolution.png);
-  width: 943px;
-  height: 387px;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 927px;
+  height: 373px;
 }
 
 @media  (max-width: 941px) {

@@ -32,12 +32,14 @@ const Header = () => {
         <NavLink
           className='header__link'
           to='#portfolio'
+          smooth
         >
           Portfolio
         </NavLink>
         <NavLink
           className='header__link'
           to='#contacts'
+          smooth
         >
           Contacts
         </NavLink>

@@ -1,0 +1,18 @@
+.portfolio {
+  background-color: #f6f6f6;
+  padding: 112px 0 96px;
+}
+
+.portfolio__projects {
+  margin-top: 47px;
+  display: flex;
+  flex-direction: column;
+  gap: 99px;
+}
+
+@media  (max-width: 941px) {
+  .portfolio{
+    padding: 81px 0 80px;
+
+  }
+}

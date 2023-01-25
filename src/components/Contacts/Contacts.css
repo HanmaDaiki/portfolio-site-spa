@@ -1,0 +1,35 @@
+.contacts {
+  margin: 114px 0 86px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.contacts__paragraph {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: center;
+  width: 275px;
+}
+
+.contacts__button {
+  background-color: #070707;
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  padding: 9px 30px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.contacts__button:hover {
+  opacity: .5;
+}
+
+@media screen and (max-width: 941px) {
+  .contacts__button {
+    width: 316px;
+  }
+}
