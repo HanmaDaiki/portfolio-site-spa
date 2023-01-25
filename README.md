@@ -22,12 +22,6 @@ $ npm install
 $ npm run start
 ```
 
-## Планы по доработке
-
-- [ ] <img src="https://progress-bar.dev/28/?title=progress" /> Отрефакторить код с учетом полученных навыков в адаптивности и использовании реакта, чтобы получить рабочий проект.
-
-- [ ] <img src="https://progress-bar.dev/0/?title=progress" /> Добавить красивые анимации в проект, чтобы сделать сайт более живым.
-
 ## GitHub Pages
 
 https://hanmadaiki.github.io/portfolio-site-spa/
