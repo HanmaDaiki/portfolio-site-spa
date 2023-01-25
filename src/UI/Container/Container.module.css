@@ -3,9 +3,8 @@
   max-width: 940px;
 }
 
-@media  screen and (max-width: 939px) {
-  .Container{
-    margin: 0 auto;
+@media screen and (max-width: 941px) {
+  .Container {
     max-width: 316px;
-  }  
+  }
 }

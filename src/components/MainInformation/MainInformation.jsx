@@ -1,19 +1,23 @@
-import React from 'react';
-import Profilename from '../ProfileName/ProfileName';
-import Profiledescription from '../ProfileDescription/ProfileDescription';
-import classes from './MainInformation.module.css';
-import Profilephoto from '../ProfilePhoto/ProfilePhoto';
 import Container from '../../UI/Container/Container';
 
-const Maininformation = ({firstname, secondname, profession, age, town}) => {
+import './Maininformation.css'
+
+const Maininformation = () => {
   return (
-    <div className={classes.MainInformation}>
-      <Container>
-        <Profilename firstname={firstname} secondname={secondname} />
-        <Profiledescription profession={profession} age={age} town={town} />
-        <Profilephoto />
-      </Container>
-    </div>
+    <Container>
+      <section id='home' className='main-information'>
+          <div className='main-information__text-block'>
+            <h1 className='main-information__title'>Denis Novik</h1>
+            <p className='main-information__description'>UX | UI designer 24 years old, Minsk</p>
+            <div className='main-information__language'>
+              <button className='main-information__button'>RU</button>
+              |
+              <button className='main-information__button'>ENG</button>
+            </div>
+          </div>
+          <div className='main-information__photo' />
+      </section>
+    </Container>
   );
 };
 
