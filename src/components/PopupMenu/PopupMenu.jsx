@@ -1,8 +1,10 @@
+import { useTranslation } from 'react-i18next';
 import { HashLink as NavLink } from "react-router-hash-link";
 
 import './PopupMenu.css'
 
 const PopupMenu = ({ isActive, onCloseMenu }) => {
+  const { t } = useTranslation();
   return (
     <>
       {
@@ -17,35 +19,35 @@ const PopupMenu = ({ isActive, onCloseMenu }) => {
                 to='#home'
                 smooth
               >
-                Home
+                {t('home')}
               </NavLink>
               <NavLink
                 className='popup-menu__link'
                 to='#about'
                 smooth
               >
-                About
+                {t('about')}
               </NavLink>
               <NavLink
                 className='popup-menu__link'
                 to='#skills'
                 smooth
               >
-                Skills
+                {t('skills')}
               </NavLink>
               <NavLink
                 className='popup-menu__link'
                 to='#portfolio'
                 smooth
               >
-                Portfolio
+                {t('portfolio')}
               </NavLink>
               <NavLink
                 className='popup-menu__link'
                 to='#contacts'
                 smooth
               >
-                Contacts
+                {t('contacts')}
               </NavLink>
             </nav>
           </div>

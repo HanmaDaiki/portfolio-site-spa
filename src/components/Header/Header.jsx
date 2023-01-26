@@ -1,9 +1,12 @@
+import { useTranslation } from 'react-i18next';
 import { HashLink as NavLink } from 'react-router-hash-link';
 
 import './Header.css';
 
 
 const Header = () => {
+  const { t } = useTranslation();
+
   return (
     <header className='header'>
       <nav className='header__navigation'>
@@ -12,35 +15,35 @@ const Header = () => {
           to='#home'
           smooth
         >
-          Home
+          {t('home')}
         </NavLink>
         <NavLink
           className='header__link'
           to='#about'
           smooth
         >
-          About
+          {t('about')}
         </NavLink>
         <NavLink
           className='header__link'
           to='#skills'
           smooth
         >
-          Skills
+          {t('skills')}
         </NavLink>
         <NavLink
           className='header__link'
           to='#portfolio'
           smooth
         >
-          Portfolio
+          {t('portfolio')}
         </NavLink>
         <NavLink
           className='header__link'
           to='#contacts'
           smooth
         >
-          Contacts
+          {t('contacts')}
         </NavLink>
       </nav>
     </header>

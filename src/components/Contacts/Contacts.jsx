@@ -1,16 +1,19 @@
+import { useTranslation } from "react-i18next";
+
 import { SectionTitle } from "../../UI/SectionTitle/SectionTitle";
 
 import './Contacts.css';
 
 const Contacts = () => {
+  const { t } = useTranslation();
+
   return(
     <section id='contacts' className='contacts'>
-      <SectionTitle>Contacts</SectionTitle>
+      <SectionTitle>{t('contacts')}</SectionTitle>
       <p className='contacts__paragraph'>
-        Want to know more or just chat? 
-        You are welcome!
+        {t('contacts_p')}
       </p>
-      <button className='contacts__button'>Send message</button>
+      <button className='contacts__button'>{t('contacts_b')}</button>
     </section>
   );
 };
