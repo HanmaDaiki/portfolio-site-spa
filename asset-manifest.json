@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio-site-spa/static/css/main.e35e087e.css",
-    "main.js": "/portfolio-site-spa/static/js/main.8371f29d.js",
+    "main.js": "/portfolio-site-spa/static/js/main.6f94bfd5.js",
+    "static/js/996.11a3e10c.chunk.js": "/portfolio-site-spa/static/js/996.11a3e10c.chunk.js",
+    "static/js/188.a44ddc67.chunk.js": "/portfolio-site-spa/static/js/188.a44ddc67.chunk.js",
     "static/media/main-photo-full-resolution.png": "/portfolio-site-spa/static/media/main-photo-full-resolution.fd09b6d4fda3d39c4b06.png",
     "static/media/in.svg": "/portfolio-site-spa/static/media/in.8a85be8efd6b5b53b791bed6dfdb4d07.svg",
     "static/media/reebok.jpg": "/portfolio-site-spa/static/media/reebok.82c5945c237d927b974f.jpg",
@@ -21,10 +23,10 @@
     "static/media/close.svg": "/portfolio-site-spa/static/media/close.720de1cf4b6f49d8221b.svg",
     "static/media/icon-menu.svg": "/portfolio-site-spa/static/media/icon-menu.973721b6f3b14c650a79.svg",
     "main.e35e087e.css.map": "/portfolio-site-spa/static/css/main.e35e087e.css.map",
-    "main.8371f29d.js.map": "/portfolio-site-spa/static/js/main.8371f29d.js.map"
+    "main.6f94bfd5.js.map": "/portfolio-site-spa/static/js/main.6f94bfd5.js.map"
   },
   "entrypoints": [
     "static/css/main.e35e087e.css",
-    "static/js/main.8371f29d.js"
+    "static/js/main.6f94bfd5.js"
   ]
 }
