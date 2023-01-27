@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-site-spa/static/css/main.5cd4473a.css",
-    "main.js": "/portfolio-site-spa/static/js/main.4942c417.js",
+    "main.css": "/portfolio-site-spa/static/css/main.9c408c0c.css",
+    "main.js": "/portfolio-site-spa/static/js/main.eaa6bc0c.js",
     "static/js/996.11a3e10c.chunk.js": "/portfolio-site-spa/static/js/996.11a3e10c.chunk.js",
     "static/js/188.a44ddc67.chunk.js": "/portfolio-site-spa/static/js/188.a44ddc67.chunk.js",
-    "static/media/main-photo-full-resolution.png": "/portfolio-site-spa/static/media/main-photo-full-resolution.fd09b6d4fda3d39c4b06.png",
     "static/media/in.svg": "/portfolio-site-spa/static/media/in.8a85be8efd6b5b53b791bed6dfdb4d07.svg",
-    "static/media/reebok.jpg": "/portfolio-site-spa/static/media/reebok.82c5945c237d927b974f.jpg",
-    "static/media/levis.jpg": "/portfolio-site-spa/static/media/levis.73c86c9acbcf0f2d760c.jpg",
-    "static/media/braun.jpg": "/portfolio-site-spa/static/media/braun.0725e8714726d82c7c4e.jpg",
-    "static/media/main-photo2.jpg": "/portfolio-site-spa/static/media/main-photo2.08d79dbd08f1c029e8af.jpg",
+    "static/media/main-photo-full-resolution.png": "/portfolio-site-spa/static/media/main-photo-full-resolution.46cf797a298dea2c1cad.png",
+    "static/media/main-photo2.jpg": "/portfolio-site-spa/static/media/main-photo2.82bf204ccf3cfcb89bf9.jpg",
+    "static/media/levis.jpg": "/portfolio-site-spa/static/media/levis.7bd6409ec1ee7d54245b.jpg",
     "static/media/Gilroy-Medium.eot": "/portfolio-site-spa/static/media/Gilroy-Medium.b84941b7bdcce7cbba6d.eot",
     "static/media/Gilroy-Medium.ttf": "/portfolio-site-spa/static/media/Gilroy-Medium.f9f832b0ed3f1ab138c9.ttf",
     "static/media/Gilroy-Bold.eot": "/portfolio-site-spa/static/media/Gilroy-Bold.a732fed1bc6140852a0b.eot",
     "static/media/Gilroy-Bold.ttf": "/portfolio-site-spa/static/media/Gilroy-Bold.b900325e44ec0c673e88.ttf",
+    "static/media/reebok.jpg": "/portfolio-site-spa/static/media/reebok.4e047537fb3b587ba25f.jpg",
+    "static/media/braun.jpg": "/portfolio-site-spa/static/media/braun.779464a118b15c5904d2.jpg",
     "static/media/Gilroy-Medium.woff": "/portfolio-site-spa/static/media/Gilroy-Medium.2bc7f5d7ea77ee1bddb3.woff",
     "static/media/Gilroy-Bold.woff": "/portfolio-site-spa/static/media/Gilroy-Bold.5fb38b9fa452b5814397.woff",
     "static/media/dri.svg": "/portfolio-site-spa/static/media/dri.17a35942f63cb872857c436cfae0a5ce.svg",
@@ -22,11 +22,11 @@
     "index.html": "/portfolio-site-spa/index.html",
     "static/media/close.svg": "/portfolio-site-spa/static/media/close.720de1cf4b6f49d8221b.svg",
     "static/media/icon-menu.svg": "/portfolio-site-spa/static/media/icon-menu.973721b6f3b14c650a79.svg",
-    "main.5cd4473a.css.map": "/portfolio-site-spa/static/css/main.5cd4473a.css.map",
-    "main.4942c417.js.map": "/portfolio-site-spa/static/js/main.4942c417.js.map"
+    "main.9c408c0c.css.map": "/portfolio-site-spa/static/css/main.9c408c0c.css.map",
+    "main.eaa6bc0c.js.map": "/portfolio-site-spa/static/js/main.eaa6bc0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cd4473a.css",
-    "static/js/main.4942c417.js"
+    "static/css/main.9c408c0c.css",
+    "static/js/main.eaa6bc0c.js"
   ]
 }
