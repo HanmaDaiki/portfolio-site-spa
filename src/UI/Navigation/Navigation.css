@@ -1,0 +1,28 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation__link {
+  font-size: 18px;
+  line-height: 22px;
+  color: #828282;
+  text-decoration: none;
+}
+
+.navigation__link:hover {
+  color: #070707;
+}
+
+@media screen and (max-width: 941px) {
+  .navigation {
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 68px;
+  }
+  
+  .navigation__link {
+    font-size: 34px;
+    line-height: 42px;
+  }
+}
