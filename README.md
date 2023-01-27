@@ -22,10 +22,6 @@ $ npm install
 $ npm run start
 ```
 
-## Доработка
-
-- [ ] Сделать компоненты UI для переключения языка и для навигации
-
 ## GitHub Pages
 
 https://hanmadaiki.github.io/portfolio-site-spa/
