@@ -1,0 +1,38 @@
+.translater {
+  transform: rotate(-90deg);
+  display: flex;
+  align-items: flex-end;
+  width: 40px;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.translater__button {
+  background-color: rgba(0,0,0, 0%);
+  border: none;
+  margin: 0 5px;
+  font-size: 16px;
+  line-height: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.translater__button:hover {
+  opacity: .5;
+}
+
+@media screen and (max-width: 941px) {
+  .translater {
+    transform: rotate(90deg);
+    position: fixed;
+    font-size: 34px;
+    line-height: 42px;
+    bottom: 145px;
+    right: 28px;
+  }
+
+  .translater__button {
+    font-size: 34px;
+    line-height: 42px;
+  }
+}

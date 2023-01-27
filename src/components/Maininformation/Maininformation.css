@@ -24,12 +24,6 @@
   line-height: 22px;
 }
 
-.main-information__language {
-  transform: rotate(-90deg);
-  display: flex;
-  align-items: flex-end;
-  width: 40px;
-}
 
 .main-information__text-block {
   width: 100%;

@@ -1,4 +1,5 @@
 import { Navigation } from '../../UI/Navigation/Navigation';
+import { Translater } from '../../UI/Translater/Translater';
 
 import './PopupMenu.css'
 
@@ -12,6 +13,7 @@ const PopupMenu = ({ isActive, onCloseMenu }) => {
             <button className='popup-menu__button-close' onClick={onCloseMenu}>
             </button>
             <Navigation />
+            <Translater />
           </div>
           :
           <></>
