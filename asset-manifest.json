@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-site-spa/static/css/main.e35e087e.css",
-    "main.js": "/portfolio-site-spa/static/js/main.6f94bfd5.js",
+    "main.css": "/portfolio-site-spa/static/css/main.5cd4473a.css",
+    "main.js": "/portfolio-site-spa/static/js/main.4942c417.js",
     "static/js/996.11a3e10c.chunk.js": "/portfolio-site-spa/static/js/996.11a3e10c.chunk.js",
     "static/js/188.a44ddc67.chunk.js": "/portfolio-site-spa/static/js/188.a44ddc67.chunk.js",
     "static/media/main-photo-full-resolution.png": "/portfolio-site-spa/static/media/main-photo-full-resolution.fd09b6d4fda3d39c4b06.png",
@@ -22,11 +22,11 @@
     "index.html": "/portfolio-site-spa/index.html",
     "static/media/close.svg": "/portfolio-site-spa/static/media/close.720de1cf4b6f49d8221b.svg",
     "static/media/icon-menu.svg": "/portfolio-site-spa/static/media/icon-menu.973721b6f3b14c650a79.svg",
-    "main.e35e087e.css.map": "/portfolio-site-spa/static/css/main.e35e087e.css.map",
-    "main.6f94bfd5.js.map": "/portfolio-site-spa/static/js/main.6f94bfd5.js.map"
+    "main.5cd4473a.css.map": "/portfolio-site-spa/static/css/main.5cd4473a.css.map",
+    "main.4942c417.js.map": "/portfolio-site-spa/static/js/main.4942c417.js.map"
   },
   "entrypoints": [
-    "static/css/main.e35e087e.css",
-    "static/js/main.6f94bfd5.js"
+    "static/css/main.5cd4473a.css",
+    "static/js/main.4942c417.js"
   ]
 }
