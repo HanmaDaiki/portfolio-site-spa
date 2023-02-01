@@ -22,6 +22,10 @@ $ npm install
 $ npm run start
 ```
 
+## Статус Проекта
+
+Завершён!
+
 ## Demo
 
 [GitHub Pages](https://hanmadaiki.github.io/portfolio-site-spa/)
