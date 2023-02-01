@@ -22,6 +22,9 @@ $ npm install
 $ npm run start
 ```
 
-## GitHub Pages
+## Demo
 
-https://hanmadaiki.github.io/portfolio-site-spa/
+[GitHub Pages](https://hanmadaiki.github.io/portfolio-site-spa/)
+
+<img src="https://github.com/HanmaDaiki/portfolio-site-spa/blob/main/GIF%20DEMO.gif" />
+
